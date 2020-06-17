@@ -1,0 +1,24 @@
+/* navbar logo */
+
+.navbar img{
+    max-height: 80px;
+    width: auto;
+}
+
+/* navbar */
+
+.navbar-nav li {
+    padding: 0 50px;
+}
+
+.navbar-toggler-icon {
+    color: gold;
+}
+
+#main-and-nav {
+    height: 65vh;
+    background-image: url(pictures/mainpagedog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
